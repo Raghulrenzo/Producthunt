@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+table{
+    border-spacing:0px;
+    
+}
+
+
+body,button{
+    background-color: #f5f5f5;
+    font-family:'Times New Roman',Arial;
+}
+.title-xl{
+    font-size:24px;
+    font-weight:bold;
+    line-height:normal;
+    color:gray;
+}
+.title-l{
+    font-size:18px;
+    font-weight:bold;
+    line-height:1.44;
+}
+.title{
+    font-size:20px;
+    font-weight:300;
+    line-height:normal;
+    color:#606060;
+}
+.text{
+    font-size:16px;
+    font-weight:normal;
+    line-height:1.44;
+}
+a{
+    text-decoration:none;
+}
+.button-primary{
+    background-color: #2196f3;
+    color:white;
+    padding:16px 14px;
+    border-radius:4px;
+}
+.wrapper{
+    width:100%;
+    table-layout: fixed;
+    background-color:#f5f5f5;
+}
+.main{
+    width:100%;
+    max-width:800px;
+    background-color:pink;
+    margin:0 auto;
+}
+.container{
+    max-width: calc(100% - 192px);
+    margin: 0 auto;
+    padding:0 2px;
+    table-layout: fixed;
+}
+
+
+<tr>
+            <td style="padding:36px 98px 60px 98px;">
+                <table style="width:100%; border-collapes:collapes; border:0; border-spacing:0;">
+                    <tr >
+                        <td style="padding:0;">
+                            <h1 style="margin:0; text-align: center;">Introducing “Recommendations”</h1>
+
+                        </td>
+                    </tr>
+                </table>
+
+
+            </td>
+        </tr>
+
+
+
+
+        <td style="padding:27px 0 14px 0;">
+                <p style="margin:0; display:inline-block;"><img src="./Image/logo.png" width="34px" height="auto" style="display:inline-block;"></p>
+            </td>
+
+
+            <tr>
+                        <td colspan="2" style="padding:0; text-align:center border:1px solid #ffffff; widht:100px;">
+                            
+                        </td>
+                    </tr>
